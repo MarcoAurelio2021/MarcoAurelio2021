@@ -1,4 +1,4 @@
-## olá! eu sou o Marco Aurélio, estudante de Programação Web!
+## olá! eu sou Marco Aurélio, estudante React!
 
 
 
